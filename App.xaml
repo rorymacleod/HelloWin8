@@ -6,6 +6,8 @@
 
     <Application.Resources>
         <ResourceDictionary>
+            <x:String x:Key="AppName">Hello, World</x:String>
+
             <ResourceDictionary.MergedDictionaries>
 
                 <!-- 
